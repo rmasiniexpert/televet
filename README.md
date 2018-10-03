@@ -11,3 +11,7 @@ link [televet](http://gettelevet.com)
 4. Ask to choose the pet(dog, cat, horse or other).
 5. After choosen the pet we register the animal(name, breed, birth, weight, sex, status(spayed, neutered or fertile), environment)
 6. ask to pay U$50 dollars
+
+## Partnership
+
+Telet did a partnership with [vetsource](https://vetsource.com/news/vetsource-aligns-with-televet-a-veterinary-telemedicine-platform/). A pet pharmacy. They have a e-prescribing tool.
