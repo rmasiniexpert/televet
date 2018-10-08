@@ -1,17 +1,17 @@
-# TELEVET
+# PETZAM
 ## BENCHMARK ==> OCT 3 2018
 
 Objective: The main purpose of this report is to do an analysis of the Televet company assessing their business model, branding and market share.
 
-link [televet](http://gettelevet.com)
+link [Petzam](https://www.petzam.com/)
 
 1. There isn't a website portal.
 2. We must to download the app(IOS & Android version).
 3. At the app we must log in or register(name, password, email, tel).
-4. Ask to choose the pet(dog, cat, horse or other).
-5. After choosen the pet we register the animal(name, breed, birth, weight, sex, status(spayed, neutered or fertile), environment)
-6. ask to pay U$50 dollars
+4. Ask for the pet or behaviorist.
+5. Contact just wit a vet or behaviorist.
+6. Payments depends of the vet or behaviorist
 
 ## Partnership
 
-Telet did a partnership with [vetsource](https://vetsource.com/news/vetsource-aligns-with-televet-a-veterinary-telemedicine-platform/). A pet pharmacy. They have a e-prescribing tool.
+There isn't.
