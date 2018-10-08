@@ -1,17 +1,18 @@
-# TELEVET
+# TELEVETIMAGING
 ## BENCHMARK ==> OCT 3 2018
 
 Objective: The main purpose of this report is to do an analysis of the Televet company assessing their business model, branding and market share.
 
-link [televet](http://gettelevet.com)
+link [televetimaging](https://www.televetimaging.solutions/about-me)
 
 1. There isn't a website portal.
-2. We must to download the app(IOS & Android version).
-3. At the app we must log in or register(name, password, email, tel).
-4. Ask to choose the pet(dog, cat, horse or other).
-5. After choosen the pet we register the animal(name, breed, birth, weight, sex, status(spayed, neutered or fertile), environment)
-6. ask to pay U$50 dollars
+2. There isn't a app.
 
 ## Partnership
 
-Telet did a partnership with [vetsource](https://vetsource.com/news/vetsource-aligns-with-televet-a-veterinary-telemedicine-platform/). A pet pharmacy. They have a e-prescribing tool.
+No partnership.
+
+## OTHER EXAMPLES
+[Idexx](https://www.idexx.com/en/veterinary/diagnostic-imaging-telemedicine-consultants/telemedicine-consultants/)
+[VIC](https://www.veterinaryimagingconsultations.com/)
+[VETRAD](http://www.vet-rad.com/teleradiology/)
