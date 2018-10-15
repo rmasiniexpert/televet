@@ -48,11 +48,12 @@ Message for Vets:
 ### Basic needs
 
 A survey conducted by the American Veterinary Medical Association in **1996** revealed what were the factors that influenced people's choice to select their veterinarian:
-.proximity (65%)
-.recommendation (42%)
-.prices (39%)
-.hours & availability (31%)
-.road signs (7%)
+
+1.proximity (65%)
+2.recommendation (42%)
+3.prices (39%)
+4.hours & availability (31%)
+5.road signs (7%)
 
 Millennials (ages 18-34) have surpassed baby boomers (ages 51-69) as the largest pet owning demographic, according to the 
 American Pet Products Association. Millennials also are the largest consumers of technology. More than 85 percent of 
@@ -62,8 +63,8 @@ have already made purchases online (Edielman Digital).
 
 ### Emerging expectations from customer
 
-1)Affordable care
-2)Easy and instant contact, by mobile
-3)Iniate the treatment quickly
+1.Affordable care
+2.Easy and instant contact, by mobile
+3.Iniate the treatment quickly
 
 ### What are our innovation?
