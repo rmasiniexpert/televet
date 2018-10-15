@@ -55,6 +55,8 @@ A survey conducted by the American Veterinary Medical Association in **1996** re
 4. hours & availability (31%)
 5. road signs (7%)
 
+### Drivers of change
+
 Millennials (ages 18-34) have surpassed baby boomers (ages 51-69) as the largest pet owning demographic, according to the 
 American Pet Products Association. Millennials also are the largest consumers of technology. More than 85 percent of 
 millennials own smartphones (Nielsen) and 87 percent use two to three tech devices at least once a day (Forbes). Additionally, 
@@ -67,4 +69,4 @@ have already made purchases online (Edielman Digital).
 2. Easy and instant contact, by mobile
 3. Iniate the treatment quickly
 
-### What are our innovation?
+### What is our innovation?
