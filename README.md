@@ -15,3 +15,55 @@ link [televet](http://gettelevet.com)
 ## Partnership
 
 Telet did a partnership with [vetsource](https://vetsource.com/news/vetsource-aligns-with-televet-a-veterinary-telemedicine-platform/). A pet pharmacy. They have a e-prescribing tool.
+
+
+## Consumer trend Canvas
+
+Trend ==> Tele veterinary 
+The global veterinary healthcare market was valued at $27 billion in 2017. North America was the largest geographic region accounting for $12.0 billion or 50% of the global market. The USA was the largest country accounting for $11.5 billion or 40% of the global veterinary healthcare market. 
+The market trend of veterinary industry is to maintain growth at 6.2% a year.
+In the US, one key indicator — the number of visits to veterinary clinics by pet and livestock owners — has fallen recently. This probably resulted from a combination of decreasing affordability and the availability of information online. According to the American Pet Products Association, 43% of dog owners and 41% of cat owners rely on online information.
+In the US, consumer spending on domestic animals is forecast to reach $33 billion in 2014, according to research from Freedonia. Pet health product demand at the manufacturer level is expected to rise almost 6 percent yearly to reach $5.5 billion in 2014. Pet Services (includes walking, sitting, training, grooming and boarding) - $5.41 billion(2015).
+
+The following is a list of pets and their numbers in households as of the last survey:
+
+.78 million dogs
+.86.4 million cats
+.151.1 million freshwater fish
+.8.61 million saltwater fish
+.16.2 million birds
+.16 million small animals  
+.13 million reptiles
+.7.9 million equines
+
+### Inspiration from TeleVet
+
+Message for Vets:
+1)Improve patient outcomes, increase client satisfaction, and boost clinic revenue with your own VCPR compliant remote veterinary care app.
+2)Work anywhere. Set your own prices. You're in total control.
+3)Number of lost consultantions due to travel expenditures Dogs(30%), cat(25%).
+4)Keep your clients happy and earn extra money by providing after hours care through TeleVet.
+5)Veterinarians are receiving texts, emails, and phone calls regularly from friends and family wanting to know how to help their pets. Since vets are awesome, they often respond to these with how best to help. Unfortunately, these interactions are unmanaged, not monetized, and lacking records.
+
+### Basic needs
+
+A survey conducted by the American Veterinary Medical Association in **1996** revealed what were the factors that influenced people's choice to select their veterinarian:
+.proximity (65%)
+.recommendation (42%)
+.prices (39%)
+.hours & availability (31%)
+.road signs (7%)
+
+Millennials (ages 18-34) have surpassed baby boomers (ages 51-69) as the largest pet owning demographic, according to the 
+American Pet Products Association. Millennials also are the largest consumers of technology. More than 85 percent of 
+millennials own smartphones (Nielsen) and 87 percent use two to three tech devices at least once a day (Forbes). Additionally, 
+65 percent of millennials start interactions with a brand or organization online (Microsoft), and 41 percent of millennials 
+have already made purchases online (Edielman Digital).
+
+### Emerging expectations from customer
+
+1)Affordable care
+2)Easy and instant contact, by mobile
+3)Iniate the treatment quickly
+
+### What are our innovation?
